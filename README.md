@@ -1,6 +1,4 @@
 Simulation Youtube with Nodejs and ReactJs
 <h1>Pages:</h1>
-<ul style={textDecoration:'none'}>
-   <li><input type="checkbox">Oi</input></li>  
-  
-</ul
+
+Home,MyProfile,UploadVideo,EditVideo,SingIn,Login,Logout,Create Comments,EditVideo and EditComments
